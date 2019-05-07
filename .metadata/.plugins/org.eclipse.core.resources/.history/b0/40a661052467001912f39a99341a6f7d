@@ -1,0 +1,55 @@
+package ua.lviv.iot.cutlery.models;
+
+public class PlateCutlery extends Cutlery {
+	
+	private double diagonal;
+	private String color;
+	private Structure typestructure;
+	
+	
+
+	public PlateCutlery() {
+	}
+
+	public PlateCutlery(double rating, double price, String material, String production, double diagonal, String color, Structure typestructure) {
+		super(rating, price, material, production);
+		this.diagonal = diagonal;
+		this.color = color;
+		this.typestructure = typestructure;
+	}
+	
+
+
+	public double getDiagonal() {
+		return diagonal;
+	}
+
+	public void setDiagonal(double diagonal) {
+		this.diagonal = diagonal;
+	}
+
+	public String getColor() {
+		return color;
+	}
+
+	public void setColor(String color) {
+		this.color = color;
+	}
+
+	public Structure getTypestructure() {
+		return typestructure;
+	}
+
+	public void setTypestructure(Structure typestructure) {
+		this.typestructure = typestructure;
+	}
+
+	@Override
+	public String toString() {
+		return "\n" + super.toString() + "PlateCutlery [diagonal=" + diagonal + ", color=" + color + ", typestructure=" + typestructure + "]";
+	}
+
+	
+
+
+}

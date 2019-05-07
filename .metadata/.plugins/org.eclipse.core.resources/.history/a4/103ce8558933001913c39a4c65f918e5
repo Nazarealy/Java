@@ -1,0 +1,30 @@
+public class SquareRoot {
+
+    public static void main(String[] args) {
+        double a = 3;
+        double b = 2.5;
+        double c = -0.5;
+        
+        double D = b*b - (4*a*c);
+		double x = Math.sqrt(D);
+
+        if (D > 0) {
+			System.out.print("x1=");
+			System.out.println((-b+x)/(2*a));
+			System.out.print("x2=");
+			System.out.println((-b-x)/(2*a));
+		}
+		else if (D == 0) {
+			System.out.print("x1=");
+			System.out.println(-b/(2*a));
+			System.out.print("x2=");
+			System.out.println(-b/(2*a));
+
+		}
+		else {
+			System.out.println("x1=");
+			System.out.println("x2=");
+		}
+        
+    }
+}

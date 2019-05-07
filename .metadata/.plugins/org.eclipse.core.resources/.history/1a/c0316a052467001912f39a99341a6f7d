@@ -1,0 +1,27 @@
+package ua.lviv.iot.cutlery;
+
+import ua.lviv.iot.cutlery.managers.CutleryManager;
+import ua.lviv.iot.cutlery.models.ForkCutlery;
+import ua.lviv.iot.cutlery.models.PlateCutlery;
+import ua.lviv.iot.cutlery.models.Sharpness;
+import ua.lviv.iot.cutlery.models.SpoonCutlery;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		CutleryManager managerCutlery = new CutleryManager();
+		ForkCutlery forcookies = new ForkCutlery(4, 54.50, "wood", "Turkey", 4, Sharpness.MEDIUM_STATE);
+		PlateCutlery simplePlate = new PlateCutlery(43, 65, null, null, 13, "cd", null);
+		SpoonCutlery exampleSpoon = new SpoonCutlery(3, 2, "df", null, 43, null);
+		managerCutlery.toAdd(forcookies);
+		managerCutlery.toAdd(simplePlate);
+		managerCutlery.toAdd(exampleSpoon);
+
+		System.out.println("Search by material:" + managerCutlery.sortByPrice(true).toString() + "\n");
+		System.out.println("Search by material:" + managerCutlery.sortByCapacity(true).toString() + "\n");
+		System.out.println("Search by material:" + managerCutlery.searchByRating(3).toString() + "\n");
+		System.out.println("Search by material:" + managerCutlery.searchByStructure(null).toString() + "\n");
+	}
+
+}
