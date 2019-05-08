@@ -1,7 +1,0 @@
-package ua.lviv.iot.cutlery.models;
-
-public enum Sharpness {
-	
-	EASY_STATE, MEDIUM_STATE, STRONG_STATE;
-
-}
