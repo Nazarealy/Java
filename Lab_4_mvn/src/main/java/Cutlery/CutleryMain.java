@@ -1,17 +1,20 @@
 package Cutlery;
 
-public class CutleryMain {
+public class CutleryMain {     //main class
 
-    private double price;
-    private double rating;
-    private String material;
-    private String production;
+    private double price;      //price
+    private double rating;     //rating
+    private String material;   //material
+    private String production; //prodaction
 
 
-    public CutleryMain() {
+    public CutleryMain() {     //constructor(defult)
     }
 
-    public CutleryMain(double price, double rating, String material, String production) {
+    public CutleryMain(final double price,  //constructor
+                       final double rating,
+                       final String material,
+                       final String production) {
         this.price = price;
         this.rating = rating;
         this.material = material;
@@ -52,11 +55,16 @@ public class CutleryMain {
 
     @Override
     public String toString() {
-        return "CutleryMain{" +
-                "price=" + price +
-                ", rating=" + rating +
-                ", material='" + material + '\'' +
-                ", production='" + production + '\'' +
+        return "CutleryMain{"
+                +
+                "price=" + price
+                +
+                ", rating=" + rating
+                +
+                ", material='" + material + '\''
+                +
+                ", production='" + production + '\''
+                +
                 '}';
     }
 }

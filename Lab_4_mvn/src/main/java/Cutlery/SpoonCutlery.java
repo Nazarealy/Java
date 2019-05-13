@@ -32,9 +32,12 @@ public class SpoonCutlery extends CutleryMain {
 
     @Override
     public String toString() {
-        return "SpoonCutlery{" +
-                "lenght=" + lenght +
-                ", color='" + color + '\'' +
+        return "SpoonCutlery{"
+                +
+                "lenght=" + lenght
+                +
+                ", color='" + color + '\''
+                +
                 '}';
     }
 }

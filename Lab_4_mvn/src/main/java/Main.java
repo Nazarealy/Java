@@ -1,12 +1,17 @@
 import CutleryManager.Manager;
-import Cutlery.*;
+import Cutlery.CutleryMain;
+import Cutlery.SharpnessType;
+import Cutlery.ForkCutlery;
+import Cutlery.SpoonCutlery;
+import Cutlery.StructureType;
+import Cutlery.PlateCutlery;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class Main {
 
-    public static void main(String[] args) {
+    public final static void main(String[] args) {
 
         Manager manager = new Manager();
 
@@ -24,14 +29,9 @@ public class Main {
         manager.toAdd(plate);
         manager.toAdd(testfork);
 
-
-
         System.out.println("Sort by price : " + manager.sortByPrice(true) + "\n");
-
         System.out.println("Sort by rating" + manager.sortByRating(true) + "\n");
-
         System.out.println("Search by rating" + manager.searchByRating(31) + "\n");
-
         System.out.println("Search by material:" + manager.searchByMaterial("wood").toString() + "\n");
 
     }

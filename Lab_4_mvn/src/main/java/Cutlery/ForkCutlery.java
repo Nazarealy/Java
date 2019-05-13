@@ -33,9 +33,12 @@ public class ForkCutlery extends CutleryMain {
 
     @Override
     public String toString() {
-        return "ForkCutlery{" +
-                "needlesnumber=" + needlesnumber +
-                ", sharpness=" + sharpness +
+        return "ForkCutlery{"
+                +
+                "needlesnumber=" + needlesnumber
+                +
+                ", sharpness=" + sharpness
+                +
                 '}';
     }
 }

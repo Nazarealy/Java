@@ -42,10 +42,14 @@ public class PlateCutlery extends CutleryMain{
 
     @Override
     public String toString() {
-        return "PlateCutlery{" +
-                "diagonal=" + diagonal +
-                ", color='" + color + '\'' +
-                ", structure=" + structure +
+        return "PlateCutlery{"
+                +
+                "diagonal=" + diagonal
+                +
+                ", color='" + color + '\''
+                +
+                ", structure=" + structure
+                +
                 '}';
     }
 }
