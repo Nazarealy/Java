@@ -9,7 +9,8 @@ public class PlateCutlery extends CutleryMain{
     public PlateCutlery() {
     }
 
-    public PlateCutlery(double diagonal, String color, StructureType structure) {
+    public PlateCutlery(double price, double rating, String material, String production, double diagonal, String color, StructureType structure) {
+        super(price, rating, material, production);
         this.diagonal = diagonal;
         this.color = color;
         this.structure = structure;

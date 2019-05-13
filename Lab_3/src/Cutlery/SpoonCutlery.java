@@ -1,6 +1,6 @@
 package Cutlery;
 
-public class SpoonCutlery {
+public class SpoonCutlery extends CutleryMain {
 
     private int lenght;
     private String color;
@@ -8,7 +8,8 @@ public class SpoonCutlery {
     public SpoonCutlery() {
     }
 
-    public SpoonCutlery(int lenght, String color) {
+    public SpoonCutlery(double price, double rating, String material, String production, int lenght, String color) {
+        super(price, rating, material, production);
         this.lenght = lenght;
         this.color = color;
     }

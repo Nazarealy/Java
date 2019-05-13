@@ -8,7 +8,9 @@ public class ForkCutlery extends CutleryMain {
     public ForkCutlery() {
     }
 
-    public ForkCutlery(int needlesnumber, SharpnessType sharpness) {
+
+    public ForkCutlery(double price, double rating, String material, String production, int needlesnumber, SharpnessType sharpness) {
+        super(price, rating, material, production);
         this.needlesnumber = needlesnumber;
         this.sharpness = sharpness;
     }

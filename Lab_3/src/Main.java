@@ -11,27 +11,28 @@ public class Main {
         Manager manager = new Manager();
 
 
-        //SpoonCutlery spon = new SpoonCutlery(3, "cds");
+        SpoonCutlery spon = new SpoonCutlery(10, 3, "plastik","Eng",7,"white");
 
-        PlateCutlery plate = new PlateCutlery(45.4, "cds", StructureType.DEEP);
+        PlateCutlery plate = new PlateCutlery(20, 4,"metal","Pol",5.5 ,"red", StructureType.DEEP);
 
-        ForkCutlery testfork = new ForkCutlery(30, SharpnessType.MEDIUM_STATE);
+        ForkCutlery testfork = new ForkCutlery(35, 31, "wood", "Ukr", 4, SharpnessType.EASY_STATE);
 
 
         List<CutleryMain> newCutleryMainList = new ArrayList<>();
 
-        //manager.toAdd(spon);
+        manager.toAdd(spon);
         manager.toAdd(plate);
         manager.toAdd(testfork);
 
-        //System.out.println("Search by material:"+ manager.searchByMaterial(MaterialType.CERAMIC).toString()+ "\n"); //sorting by type
 
-        System.out.println("Search by rating : "+ manager.searchByRating(30)+ "\n");
 
         System.out.println("Sort by price : "+ manager.sortByPrice(true)+ "\n");
 
-        System.out.println("Sort by capacity"+ manager.sortByRating(true)+ "\n");
+        System.out.println("Sort by rating"+ manager.sortByRating(true)+ "\n");
 
+        System.out.println("Search by rating"+ manager.searchByRating(31)+ "\n");
+
+        System.out.println("Search by material:"+ manager.searchByMaterial("wood").toString()+ "\n"); //sorting by type
 
     }
 }
