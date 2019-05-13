@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f603c0b4-cd32-4ebe-93e1-ec3f39b55279" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab_3/Cutlery/CutleryMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab_3/Cutlery/ForkCutlery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab_3/Cutlery/PlateCutlery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab_3/Cutlery/SharpnessType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab_3/Cutlery/SpoonCutlery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab_3/Cutlery/StructureType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab_3/CutleryManager/Manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab_3/Main.class" beforeDir="false" />
-    </list>
+    <list default="true" id="f603c0b4-cd32-4ebe-93e1-ec3f39b55279" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,12 +13,12 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+            <state relative-caret-position="209">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,19 +69,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Lab_3" type="b2602c69:ProjectViewProjectNode" />
               <item name="Lab_3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Lab_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lab_3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -148,16 +132,17 @@
       <workItem from="1557400565568" duration="10264000" />
       <workItem from="1557434615763" duration="194000" />
       <workItem from="1557599773085" duration="2638000" />
+      <workItem from="1557733375689" duration="387000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14548000" />
+    <option name="totallyTimeSpent" value="14935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -304,8 +289,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
