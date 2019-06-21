@@ -1,6 +1,6 @@
 package Cutlery;
 
-public class PlateCutlery extends CutleryMain{
+public class PlateCutlery extends CutleryMain {
 
     private double diagonal;
     private String color;
@@ -9,34 +9,40 @@ public class PlateCutlery extends CutleryMain{
     public PlateCutlery() {
     }
 
-    public PlateCutlery(double price, double rating, String material, String production, double diagonal, String color, StructureType structure) {
+    public PlateCutlery(final double price,
+                        final double rating,
+                        final String material,
+                        final String production,
+                        final double diagonal,
+                        final String color,
+                        final StructureType structure) {
         super(price, rating, material, production);
         this.diagonal = diagonal;
         this.color = color;
         this.structure = structure;
     }
 
-    public double getDiagonal() {
+    public final double getDiagonal() {
         return diagonal;
     }
 
-    public void setDiagonal(double diagonal) {
+    public final void setDiagonal(final double diagonal) {
         this.diagonal = diagonal;
     }
 
-    public String getColor() {
+    public final String getColor() {
         return color;
     }
 
-    public void setColor(String color) {
+    public final void setColor(final String color) {
         this.color = color;
     }
 
-    public StructureType getStructure() {
+    public final StructureType getStructure() {
         return structure;
     }
 
-    public void setStructure(StructureType structure) {
+    public final void setStructure(final StructureType structure) {
         this.structure = structure;
     }
 

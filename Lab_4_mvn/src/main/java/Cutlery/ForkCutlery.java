@@ -9,25 +9,30 @@ public class ForkCutlery extends CutleryMain {
     }
 
 
-    public ForkCutlery(double price, double rating, String material, String production, int needlesnumber, SharpnessType sharpness) {
+    public ForkCutlery(final double price,
+                       final double rating,
+                       final String material,
+                       final String production,
+                       final int needlesnumber,
+                       final SharpnessType sharpness) {
         super(price, rating, material, production);
         this.needlesnumber = needlesnumber;
         this.sharpness = sharpness;
     }
 
-    public int getNeedlesnumber() {
+    public final int getNeedlesnumber() {
         return needlesnumber;
     }
 
-    public void setNeedlesnumber(int needlesnumber) {
+    public final void setNeedlesnumber(final int needlesnumber) {
         this.needlesnumber = needlesnumber;
     }
 
-    public SharpnessType getSharpness() {
+    public final SharpnessType getSharpness() {
         return sharpness;
     }
 
-    public void setSharpness(SharpnessType sharpness) {
+    public final void setSharpness(final SharpnessType sharpness) {
         this.sharpness = sharpness;
     }
 

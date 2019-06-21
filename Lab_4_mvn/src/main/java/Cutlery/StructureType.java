@@ -2,6 +2,6 @@ package Cutlery;
 
 public enum StructureType {
 
-    DEEP, SHALLOW;
+    DEEP, SHALLOW
 
 }

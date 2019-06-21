@@ -5,13 +5,13 @@ public class CutleryMain {     //main class
     private double price;      //price
     private double rating;     //rating
     private String material;   //material
-    private String production; //prodaction
+    private String production; //production
 
 
-    public CutleryMain() {     //constructor(defult)
+    public CutleryMain() {     //constructor(default)
     }
 
-    public CutleryMain(final double price,  //constructor
+    public CutleryMain(final double price,
                        final double rating,
                        final String material,
                        final String production) {
@@ -21,35 +21,35 @@ public class CutleryMain {     //main class
         this.production = production;
     }
 
-    public double getPrice() {
+    public final double getPrice() {
         return price;
     }
 
-    public void setPrice(double price) {
+    public final void setPrice(final double price) {
         this.price = price;
     }
 
-    public double getRating() {
+    public final double getRating() {
         return rating;
     }
 
-    public void setRating(double rating) {
+    public final void setRating(final double rating) {
         this.rating = rating;
     }
 
-    public String getMaterial() {
+    public final String getMaterial() {
         return material;
     }
 
-    public void setMaterial(String material) {
+    public final void setMaterial(final String material) {
         this.material = material;
     }
 
-    public String getProduction() {
+    public final String getProduction() {
         return production;
     }
 
-    public void setProduction(String production) {
+    public final void setProduction(final String production) {
         this.production = production;
     }
 

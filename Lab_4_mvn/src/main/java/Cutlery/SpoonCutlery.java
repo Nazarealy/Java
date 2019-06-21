@@ -8,25 +8,30 @@ public class SpoonCutlery extends CutleryMain {
     public SpoonCutlery() {
     }
 
-    public SpoonCutlery(double price, double rating, String material, String production, int lenght, String color) {
+    public SpoonCutlery(final double price,
+                        final double rating,
+                        final String material,
+                        final String production,
+                        final int lenght,
+                        final String color) {
         super(price, rating, material, production);
         this.lenght = lenght;
         this.color = color;
     }
 
-    public int getLenght() {
+    public final int getLenght() {
         return lenght;
     }
 
-    public void setLenght(int lenght) {
+    public final void setLenght(final int lenght) {
         this.lenght = lenght;
     }
 
-    public String getColor() {
+    public final String getColor() {
         return color;
     }
 
-    public void setColor(String color) {
+    public final void setColor(final String color) {
         this.color = color;
     }
 
