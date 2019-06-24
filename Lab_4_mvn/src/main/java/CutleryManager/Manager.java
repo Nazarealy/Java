@@ -42,11 +42,6 @@ public class Manager {
         return cutleryMainListList;
     }
 
-   // public List<CutleryMain> searchByRating() {
-     //   return cutleryMainListList.stream().filter(cutlery -> cutlery.getRating() == rating).
-       //         collect(Collectors.toList());
-
-  //  }
 
     public List<CutleryMain> searchByMaterial(final String material) {
         return cutleryMainListList.stream().filter(cutlery -> cutlery.getMaterial() == material).

@@ -1,5 +1,7 @@
 package Cutlery;
 
+
+
 public class CutleryMain {     //main class
 
     private double price;      //price
@@ -20,6 +22,21 @@ public class CutleryMain {     //main class
         this.material = material;
         this.production = production;
     }
+
+    public String getHeaders() {
+        return  "price" + ","
+                + "rating" + ","
+                + "material" + ","
+                + "production";
+    }
+
+    public String toCSV() {
+        return this.price + ","
+                + this.rating + ","
+                + this.material + ","
+                + this.production;
+    }
+
 
     public final double getPrice() {
         return price;

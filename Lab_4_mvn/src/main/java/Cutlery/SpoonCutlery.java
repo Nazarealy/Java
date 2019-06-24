@@ -19,6 +19,19 @@ public class SpoonCutlery extends CutleryMain {
         this.color = color;
     }
 
+    public String getHeaders() {
+        return super.getHeaders() + ","
+                + "lenght" + ","
+                + "color";
+    }
+
+    public String toCSV() {
+        return super.toCSV() + ","
+                + this.lenght + ","
+                + this.color;
+    }
+
+
     public final int getLenght() {
         return lenght;
     }

@@ -22,6 +22,21 @@ public class PlateCutlery extends CutleryMain {
         this.structure = structure;
     }
 
+    public String getHeaders() {
+        return super.getHeaders() + ","
+                + "diagonal" + ","
+                + "color" + ","
+                + "structure";
+    }
+
+    public String toCSV() {
+        return super.toCSV() + ","
+                + this.diagonal + ","
+                + this.color + ","
+                + this.structure;
+    }
+
+
     public final double getDiagonal() {
         return diagonal;
     }

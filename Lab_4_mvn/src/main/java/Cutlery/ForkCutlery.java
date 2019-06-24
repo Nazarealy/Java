@@ -5,8 +5,7 @@ public class ForkCutlery extends CutleryMain {
     private int needlesnumber;
     private SharpnessType sharpness;
 
-    public ForkCutlery() {
-    }
+    public ForkCutlery() { }
 
 
     public ForkCutlery(final double price,
@@ -19,6 +18,19 @@ public class ForkCutlery extends CutleryMain {
         this.needlesnumber = needlesnumber;
         this.sharpness = sharpness;
     }
+
+    public String getHeaders() {
+        return super.getHeaders() + ","
+                + "needlesnumber" + ","
+                + "sharpness";
+    }
+
+    public String toCSV() {
+        return super.toCSV() + ","
+                + this.needlesnumber + ","
+                + this.sharpness;
+    }
+
 
     public final int getNeedlesnumber() {
         return needlesnumber;
