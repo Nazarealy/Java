@@ -17,7 +17,7 @@ public class Manager {
     }
 
     public Manager(List<CutleryMain> goodsList) {
-        this.cutleryMainListList = goodsList;
+        cutleryMainListList = goodsList;
     }
 
     public final void toAdd(final CutleryMain goods) {

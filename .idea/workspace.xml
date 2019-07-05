@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aca53ca3-1aaa-4898-8af2-6a61e3c97358" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Lab_4_mvn/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_4_mvn/src/test/java/CutleryManagerforTESTS/CutleryWriterforTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/benchmark/java-parser/benchmark-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/benchmark/java-parser/benchmark-demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/benchmark/java-parser/benchmark.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/benchmark/java-parser/benchmark.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/scripts/parse-samples.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/scripts/parse-samples.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/scripts/unicode.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/scripts/unicode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/src/parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/src/parser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/src/productions/arrays.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/src/productions/arrays.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/src/productions/blocks-and-statements.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/src/productions/blocks-and-statements.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/src/productions/classes.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/src/productions/classes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/src/productions/expressions.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/src/productions/expressions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/src/productions/interfaces.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/src/productions/interfaces.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/src/productions/lexical-structure.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/src/productions/lexical-structure.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/src/productions/names.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/src/productions/names.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/src/productions/packages-and-modules.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/src/productions/packages-and-modules.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/src/productions/types-values-and-variables.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/src/productions/types-values-and-variables.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/src/tokens.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/src/tokens.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/src/unicodesets.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/src/unicodesets.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/test/bugs-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/test/bugs-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/test/samples-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/java-parser/test/samples-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/scripts/update-test-output.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/scripts/update-test-output.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/src/cst-printer.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/src/cst-printer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/src/printers/blocks-and-statements.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/src/printers/blocks-and-statements.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/src/printers/classes.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/src/printers/classes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/src/printers/expressions.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/src/printers/expressions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/src/printers/interfaces.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/src/printers/interfaces.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/src/printers/packages-and-modules.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/src/printers/packages-and-modules.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/src/printers/prettier-builder.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/src/printers/prettier-builder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/src/printers/printer-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/src/printers/printer-utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/src/printers/types-values-and-variables.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/src/printers/types-values-and-variables.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/repository-test/core-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/repository-test/core-test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/repository-test/jhipster-1-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/repository-test/jhipster-1-test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/repository-test/jhipster-2-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/repository-test/jhipster-2-test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/test-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/test-utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/annotation_type_declaration/annotation_type_declaration-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/annotation_type_declaration/annotation_type_declaration-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/args/args-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/args/args-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/assert/assert-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/assert/assert-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/binary_expressions/binary_expressions-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/binary_expressions/binary_expressions-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/char_literal/char_literal-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/char_literal/char_literal-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/classes/multiple_classes-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/classes/multiple_classes-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/comments/comments-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/comments/comments-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/complex_generic_class/complex_generic_class-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/complex_generic_class/complex_generic_class-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/constructors/constructors-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/constructors/constructors-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/empty_statement/empty_statement-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/empty_statement/empty_statement-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/enum/enum-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/enum/enum-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/expressions/expressions-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/expressions/expressions-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/extends_abstract_class/extends_abstract_class-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/extends_abstract_class/extends_abstract_class-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/extends_abstract_class_and_implements_interfaces/extends_abstract_class_and_implements_interfaces-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/extends_abstract_class_and_implements_interfaces/extends_abstract_class_and_implements_interfaces-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/for/for-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/for/for-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/generic_class/generic_class-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/generic_class/generic_class-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/generic_invocation/generic_invocation-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/generic_invocation/generic_invocation-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/generic_questionmark/generic_questionmark-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/generic_questionmark/generic_questionmark-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/hello-world/hello-word-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/hello-world/hello-word-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/if/if-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/if/if-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/instantiation/instantiation-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/instantiation/instantiation-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/interface/interface-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/interface/interface-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/lambda/lambda-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/lambda/lambda-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/marker_annotations/marker_annotations-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/marker_annotations/marker_annotations-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/member_chain/member_chain-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/member_chain/member_chain-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/method_reference/method_reference-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/method_reference/method_reference-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/package_and_imports/package_and_imports-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/package_and_imports/package_and_imports-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/return/return-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/return/return-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/switch/switch-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/switch/switch-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/synchronized/synchronized-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/synchronized/synchronized-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/throws/throws-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/throws/throws-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/try_catch/try_catch-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/try_catch/try_catch-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/types/types-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/types/types-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/variables/variables-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/variables/variables-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/while/while-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/prettier-java/packages/prettier-plugin-java/test/unit-test/while/while-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/src/main/java/CutleryManager/GoodsWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/src/main/java/CutleryManager/GoodsWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/src/main/java/CutleryManager/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/src/main/java/CutleryManager/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/src/test/java/CutleryManager/CutleryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/src/test/java/CutleryManagerforTESTS/CutleryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/src/test/java/CutleryManager/CutleryWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/target/checkstyle-cachefile" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/target/checkstyle-cachefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/target/checkstyle-result.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/target/checkstyle-result.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/target/classes/CutleryManager/GoodsWriter$GoodsCutleryWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/target/classes/CutleryManager/GoodsWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/target/classes/CutleryManager/GoodsWriter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/target/classes/CutleryManager/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/target/classes/CutleryManager/Manager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/target/findbugsXml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/target/findbugsXml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/target/pmd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/target/pmd.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/target/site/checkstyle.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/target/site/checkstyle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/target/site/checkstyle.rss" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/target/site/checkstyle.rss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/target/site/dependencies.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/target/site/dependencies.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/target/site/dependency-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/target/site/dependency-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/target/site/findbugs.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/target/site/findbugs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/target/site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/target/site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/target/site/plugin-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/target/site/plugin-management.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/target/site/plugins.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/target/site/plugins.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/target/site/project-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/target/site/project-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/target/site/project-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/target/site/project-reports.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/target/site/summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4_mvn/target/site/summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/target/test-classes/CutleryManager/CutleryTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/target/test-classes/CutleryManager/CutleryWriter$goodsWriterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4_mvn/target/test-classes/CutleryManager/CutleryWriter.class" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="90" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Java" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aca53ca3-1aaa-4898-8af2-6a61e3c97358" name="Default Changelist" comment="" />
+      <created>1562017923644</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562017923644</updated>
+      <workItem from="1562017931825" duration="200000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="200000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="CheckStyle" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

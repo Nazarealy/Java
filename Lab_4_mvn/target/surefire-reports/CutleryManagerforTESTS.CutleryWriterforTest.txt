@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: CutleryManagerforTESTS.CutleryWriterforTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.004 sec <<< FAILURE!
+CutleryManagerforTESTS.CutleryWriterforTest.testWriteToFile()  Time elapsed: 0.003 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at CutleryManager.GoodsWriter.writeToFile(GoodsWriter.java:21)
+	at CutleryManagerforTESTS.CutleryWriterforTest.testWriteToFile(CutleryWriterforTest.java:34)
+

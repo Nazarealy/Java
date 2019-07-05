@@ -1,0 +1,6 @@
+price,rating,material,production,lenght,color
+10.0,3.0,plastik,Eng,7,white
+price,rating,material,production,diagonal,color,structure
+20.0,4.0,metal,Pol,5.5,red,DEEP
+price,rating,material,production,needlesnumber,sharpness
+35.0,31.0,wood,Ukr,4,EASY_STATE

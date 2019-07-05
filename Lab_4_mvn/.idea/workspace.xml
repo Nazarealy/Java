@@ -2,25 +2,114 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff65e02e-5f00-4be6-a964-e9f5a94dd7aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CutleryManager/GoodsWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CutleryManager/CutleryWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLab7/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLab7/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLab7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLab7/src/main/java/code/Algorint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLab7/src/main/java/code/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CutleryManagerforTESTS/CutleryWriterforTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prettier-java" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/benchmark/java-parser/benchmark-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/benchmark/java-parser/benchmark-demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/benchmark/java-parser/benchmark.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/benchmark/java-parser/benchmark.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/java-parser/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/java-parser/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/java-parser/scripts/parse-samples.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/java-parser/scripts/parse-samples.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/java-parser/scripts/unicode.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/java-parser/scripts/unicode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/java-parser/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/java-parser/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/java-parser/src/parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/java-parser/src/parser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/java-parser/src/productions/arrays.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/java-parser/src/productions/arrays.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/java-parser/src/productions/blocks-and-statements.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/java-parser/src/productions/blocks-and-statements.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/java-parser/src/productions/classes.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/java-parser/src/productions/classes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/java-parser/src/productions/expressions.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/java-parser/src/productions/expressions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/java-parser/src/productions/interfaces.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/java-parser/src/productions/interfaces.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/java-parser/src/productions/lexical-structure.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/java-parser/src/productions/lexical-structure.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/java-parser/src/productions/names.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/java-parser/src/productions/names.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/java-parser/src/productions/packages-and-modules.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/java-parser/src/productions/packages-and-modules.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/java-parser/src/productions/types-values-and-variables.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/java-parser/src/productions/types-values-and-variables.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/java-parser/src/tokens.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/java-parser/src/tokens.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/java-parser/src/unicodesets.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/java-parser/src/unicodesets.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/java-parser/test/bugs-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/java-parser/test/bugs-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/java-parser/test/samples-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/java-parser/test/samples-spec.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Cutlery/CutleryMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cutlery/CutleryMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Cutlery/ForkCutlery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cutlery/ForkCutlery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Cutlery/PlateCutlery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cutlery/PlateCutlery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Cutlery/SpoonCutlery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cutlery/SpoonCutlery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/scripts/update-test-output.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/scripts/update-test-output.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/src/cst-printer.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/src/cst-printer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/src/printers/blocks-and-statements.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/src/printers/blocks-and-statements.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/src/printers/classes.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/src/printers/classes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/src/printers/expressions.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/src/printers/expressions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/src/printers/interfaces.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/src/printers/interfaces.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/src/printers/packages-and-modules.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/src/printers/packages-and-modules.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/src/printers/prettier-builder.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/src/printers/prettier-builder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/src/printers/printer-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/src/printers/printer-utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/src/printers/types-values-and-variables.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/src/printers/types-values-and-variables.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/repository-test/core-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/repository-test/core-test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/repository-test/jhipster-1-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/repository-test/jhipster-1-test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/repository-test/jhipster-2-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/repository-test/jhipster-2-test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/test-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/test-utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/annotation_type_declaration/annotation_type_declaration-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/annotation_type_declaration/annotation_type_declaration-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/args/args-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/args/args-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/assert/assert-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/assert/assert-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/binary_expressions/binary_expressions-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/binary_expressions/binary_expressions-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/char_literal/char_literal-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/char_literal/char_literal-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/classes/multiple_classes-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/classes/multiple_classes-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/comments/comments-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/comments/comments-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/complex_generic_class/complex_generic_class-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/complex_generic_class/complex_generic_class-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/constructors/constructors-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/constructors/constructors-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/empty_statement/empty_statement-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/empty_statement/empty_statement-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/enum/enum-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/enum/enum-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/expressions/expressions-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/expressions/expressions-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/extends_abstract_class/extends_abstract_class-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/extends_abstract_class/extends_abstract_class-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/extends_abstract_class_and_implements_interfaces/extends_abstract_class_and_implements_interfaces-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/extends_abstract_class_and_implements_interfaces/extends_abstract_class_and_implements_interfaces-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/for/for-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/for/for-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/generic_class/generic_class-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/generic_class/generic_class-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/generic_invocation/generic_invocation-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/generic_invocation/generic_invocation-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/generic_questionmark/generic_questionmark-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/generic_questionmark/generic_questionmark-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/hello-world/hello-word-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/hello-world/hello-word-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/if/if-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/if/if-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/instantiation/instantiation-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/instantiation/instantiation-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/interface/interface-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/interface/interface-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/lambda/lambda-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/lambda/lambda-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/marker_annotations/marker_annotations-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/marker_annotations/marker_annotations-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/member_chain/member_chain-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/member_chain/member_chain-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/method_reference/method_reference-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/method_reference/method_reference-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/package_and_imports/package_and_imports-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/package_and_imports/package_and_imports-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/return/return-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/return/return-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/switch/switch-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/switch/switch-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/synchronized/synchronized-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/synchronized/synchronized-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/throws/throws-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/throws/throws-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/try_catch/try_catch-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/try_catch/try_catch-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/types/types-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/types/types-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/variables/variables-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/variables/variables-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/while/while-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettier-java/packages/prettier-plugin-java/test/unit-test/while/while-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CutleryManager/GoodsWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CutleryManager/GoodsWriter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/CutleryManager/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CutleryManager/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CutleryManager/CutleryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CutleryManagerforTESTS/CutleryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CutleryManager/CutleryWriter.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/checkstyle-cachefile" beforeDir="false" afterPath="$PROJECT_DIR$/target/checkstyle-cachefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/checkstyle-checker.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/checkstyle-checker.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/checkstyle-result.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/checkstyle-result.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Cutlery/CutleryMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Cutlery/CutleryMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Cutlery/ForkCutlery.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Cutlery/ForkCutlery.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Cutlery/PlateCutlery.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Cutlery/PlateCutlery.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Cutlery/SpoonCutlery.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Cutlery/SpoonCutlery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CutleryManager/GoodsWriter$GoodsCutleryWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CutleryManager/GoodsWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CutleryManager/GoodsWriter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/CutleryManager/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CutleryManager/Manager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/findbugsXml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/findbugsXml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/pmd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/pmd.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/checkstyle.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/checkstyle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/checkstyle.rss" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/checkstyle.rss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/dependencies.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/dependencies.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/dependency-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/dependency-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/findbugs.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/findbugs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/plugin-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/plugin-management.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/plugins.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/plugins.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/project-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/project-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/project-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/project-reports.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CutleryManager/CutleryTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CutleryManager/CutleryWriter$goodsWriterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CutleryManager/CutleryWriter.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -43,14 +132,60 @@
     <favorites_list name="Lab_4_mvn" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CutleryManager/GoodsWriter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/CutleryManagerforTESTS/CutleryWriterforTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="39" column="30" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="39" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="39" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/out.csv">
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit4 Test Class" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -80,9 +215,13 @@
         <option value="$PROJECT_DIR$/src/main/java/CutleryManager/IManager.java" />
         <option value="$PROJECT_DIR$/src/main/java/Cutlery/CutleryMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/CutleryManager/Manager.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/CutleryManager/GoodsWriter.java" />
         <option value="$PROJECT_DIR$/src/test/java/CutleryManager/CutleryWriter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CutleryManagerforTESTS/GoodsWriter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CutleryManagerforTESTS/CutleryWriter.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/out.csv" />
+        <option value="$PROJECT_DIR$/src/main/java/CutleryManager/GoodsWriter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CutleryManagerforTESTS/CutleryWriterforTest.java" />
       </list>
     </option>
   </component>
@@ -110,6 +249,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,11 +262,60 @@
               <item name="Lab_4_mvn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Lab_4_mvn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_4_mvn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab_4_mvn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_4_mvn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab_4_mvn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_4_mvn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Cutlery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab_4_mvn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_4_mvn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="CutleryManager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab_4_mvn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_4_mvn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab_4_mvn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_4_mvn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab_4_mvn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_4_mvn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="CutleryManagerforTESTS" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -135,7 +324,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/CutleryManager" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
     <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/plugins/prettierJS/lib" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -172,11 +361,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CutleryWriter">
+  <component name="RunManager" selected="JUnit.CutleryWriterforTest">
     <configuration name="All in Lab_4_mvn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lab_4_mvn" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CutleryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab_4_mvn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CutleryManagerforTESTS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CutleryManagerforTESTS" />
+      <option name="MAIN_CLASS_NAME" value="CutleryManagerforTESTS.CutleryTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -189,8 +393,8 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="CutleryManager" />
-      <option name="MAIN_CLASS_NAME" value="CutleryManager.CutleryTest" />
+      <option name="PACKAGE_NAME" value="CutleryManagerforTESTS" />
+      <option name="MAIN_CLASS_NAME" value="CutleryManagerforTESTS.CutleryTest" />
       <option name="METHOD_NAME" value="testFilterByRating" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -205,15 +409,15 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="CutleryManager" />
-      <option name="MAIN_CLASS_NAME" value="CutleryManager.CutleryTest" />
+      <option name="PACKAGE_NAME" value="CutleryManagerforTESTS" />
+      <option name="MAIN_CLASS_NAME" value="CutleryManagerforTESTS.CutleryTest" />
       <option name="METHOD_NAME" value="testSortProducerAscendingR" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CutleryWriter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CutleryWriterforTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lab_4_mvn" />
       <extension name="coverage">
         <pattern>
@@ -222,18 +426,19 @@
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH" value="11" />
-      <option name="PACKAGE_NAME" value="CutleryManager" />
-      <option name="MAIN_CLASS_NAME" value="CutleryManager.CutleryWriter" />
+      <option name="PACKAGE_NAME" value="CutleryManagerforTESTS" />
+      <option name="MAIN_CLASS_NAME" value="CutleryManagerforTESTS.CutleryWriterforTest" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
       <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MAVEN_REPOSITORY$" />
       <fork_mode value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Lab4_mvn_proj" type="JUnit" factoryName="JUnit">
-      <option name="PACKAGE_NAME" value="CutleryManager" />
+      <option name="PACKAGE_NAME" value="CutleryManagerforTESTS" />
       <option name="MAIN_CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
@@ -245,6 +450,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Unnamed" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="Lab_4_mvn" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Whole project" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <extension name="coverage">
         <pattern>
@@ -252,7 +467,7 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="CutleryManager" />
+      <option name="PACKAGE_NAME" value="CutleryManagerforTESTS" />
       <option name="MAIN_CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="directory" />
@@ -280,13 +495,16 @@
       <item itemvalue="JUnit.Lab4_mvn_proj" />
       <item itemvalue="JUnit.Whole project" />
       <item itemvalue="JUnit.CutleryTest.testFilterByRating" />
-      <item itemvalue="JUnit.CutleryWriter" />
+      <item itemvalue="JUnit.CutleryWriterforTest" />
+      <item itemvalue="JUnit.Unnamed" />
       <item itemvalue="JUnit.CutleryTest.testSortProducerAscendingR" />
       <item itemvalue="JUnit.All in Lab_4_mvn" />
+      <item itemvalue="JUnit.CutleryTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CutleryWriter" />
+        <item itemvalue="JUnit.CutleryWriterforTest" />
+        <item itemvalue="JUnit.CutleryTest" />
         <item itemvalue="JUnit.All in Lab_4_mvn" />
         <item itemvalue="JUnit.CutleryTest.testFilterByRating" />
         <item itemvalue="JUnit.CutleryTest.testSortProducerAscendingR" />
@@ -327,43 +545,48 @@
       <workItem from="1561328320187" duration="4162000" />
       <workItem from="1561375586522" duration="3566000" />
       <workItem from="1561380717318" duration="5337000" />
+      <workItem from="1561491829413" duration="1760000" />
+      <workItem from="1562006738715" duration="5353000" />
+      <workItem from="1562013912199" duration="1138000" />
+      <workItem from="1562017236598" duration="642000" />
+      <workItem from="1562081105437" duration="1029000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CutleryWriter - 2019.06.24 at 16h 24m 49s.xml">
+    <history-entry file="CutleryWriter - 2019.07.01 at 23h 42m 06s.xml">
       <configuration name="CutleryWriter" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CutleryWriter - 2019.06.24 at 20h 44m 51s.xml">
+    <history-entry file="CutleryWriter - 2019.07.02 at 00h 29m 43s.xml">
       <configuration name="CutleryWriter" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CutleryWriter - 2019.06.24 at 22h 45m 59s.xml">
+    <history-entry file="CutleryWriter - 2019.07.02 at 00h 33m 58s.xml">
       <configuration name="CutleryWriter" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CutleryWriter - 2019.06.24 at 22h 47m 29s.xml">
+    <history-entry file="CutleryWriter - 2019.07.02 at 00h 42m 14s.xml">
       <configuration name="CutleryWriter" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CutleryWriter - 2019.06.24 at 22h 49m 29s.xml">
+    <history-entry file="CutleryWriter - 2019.07.02 at 00h 45m 23s.xml">
       <configuration name="CutleryWriter" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CutleryWriter - 2019.06.24 at 22h 57m 12s.xml">
+    <history-entry file="CutleryWriter - 2019.07.02 at 18h 29m 46s.xml">
       <configuration name="CutleryWriter" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CutleryWriter - 2019.06.24 at 23h 12m 36s.xml">
-      <configuration name="CutleryWriter" configurationId="JUnit" />
+    <history-entry file="CutleryWriterforTest - 2019.07.02 at 18h 30m 46s.xml">
+      <configuration name="CutleryWriterforTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CutleryWriter - 2019.06.24 at 23h 14m 16s.xml">
-      <configuration name="CutleryWriter" configurationId="JUnit" />
+    <history-entry file="CutleryWriterforTest - 2019.07.02 at 18h 33m 03s.xml">
+      <configuration name="CutleryWriterforTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CutleryWriter - 2019.06.24 at 23h 15m 38s.xml">
-      <configuration name="CutleryWriter" configurationId="JUnit" />
+    <history-entry file="CutleryWriterforTest - 2019.07.02 at 18h 34m 18s.xml">
+      <configuration name="CutleryWriterforTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CutleryWriter - 2019.06.24 at 23h 17m 09s.xml">
-      <configuration name="CutleryWriter" configurationId="JUnit" />
+    <history-entry file="CutleryWriterforTest - 2019.07.02 at 18h 36m 53s.xml">
+      <configuration name="CutleryWriterforTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52397000" />
+    <option name="totallyTimeSpent" value="62319000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -376,8 +599,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49716714" visible="true" weight="0.3456376" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49716714" visible="true" weight="0.37248322" />
       <window_info id="Structure" order="1" sideWeight="0.50549453" side_tool="true" weight="0.3456376" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -463,12 +687,12 @@
     <SUITE FILE_PATH="coverage/Lab_4_mvn$CutleryTest_testFilterByRating.ic" NAME="CutleryTest.testFilterByRating Coverage Results" MODIFIED="1559902757596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>CutleryManager.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/Lab_4_mvn$CutleryWriter.ic" NAME="CutleryWriter Coverage Results" MODIFIED="1562008574499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>CutleryManager.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/Lab_4_mvn$All_in_Lab_4_mvn.ic" NAME="All in Lab_4_mvn Coverage Results" MODIFIED="1561380196872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lab_4_mvn.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/config/checkstyle.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -537,36 +761,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CutleryManager/IManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CutleryManager/Manager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CutleryManager/CutleryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CutleryManager/IManager.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -581,13 +776,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Cutlery/CutleryMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-266">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/builders/JUnit4Builder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -595,27 +783,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/CutleryManager/Manager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+        <state relative-caret-position="76">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CutleryManager/GoodsWriter.java">
+    <entry file="file://$PROJECT_DIR$/Lab_4_mvn.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CutleryManagerforTESTS/CutleryWriter.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/CutleryManagerforTESTS/CutleryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="304">
+          <caret line="26" column="7" selection-start-line="23" selection-start-column="8" selection-end-line="26" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CutleryManager/CutleryWriter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Cutlery/CutleryMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="49" column="16" lean-forward="true" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+        <state relative-caret-position="342">
+          <caret line="36" column="34" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="36" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CutleryManager/GoodsWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CutleryManagerforTESTS/CutleryWriterforTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="39" column="30" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="39" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
